@@ -1,0 +1,12 @@
+.vscode / *
+! .vscode / configurações.json
+! .vscode / tasks.json
+! .vscode / lançamento.json
+! .vscode / extensões.json
+! .vscode / * .code-snippets
+
+# Histórico local para código do Visual Studio
+.história /
+
+# Extensões de código do Visual Studio construídas
+* .vsix
